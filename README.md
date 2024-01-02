@@ -1,4 +1,4 @@
-# json_repo
+# flutter_json_repo
 
 A simple and efficient Dart library providing utilities for working with JSON data structures, focusing on operations such as creating, updating, and marking records as deleted with proper timestamp handling.
 
